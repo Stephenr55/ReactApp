@@ -1,8 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Running on Repl.it
+## Live Demo
 
-Simply hit run once and start coding. Will hot reload the web view. 
+https://react-app-liard.vercel.app
 
 ## Running Scripts
 
@@ -50,6 +50,8 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/co
 This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
 
 ### Making a Progressive Web App
+
+This is an installable PWA
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
 
